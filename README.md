@@ -4,12 +4,7 @@
 
 
 
-### Weights File Backup
-
-//YOLOv3 pretrained weights - Download [Weights](https://pjreddie.com/media/files/yolov3.weights) 
-
-//Pre-trainned Weights for convolution layers - Download [Conv_weights](https://pjreddie.com/media/files/darknet53.conv.74)
-
+### Datasets
 
 CUHK Dataset: [Dataset](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
 
@@ -17,11 +12,6 @@ Augmeted Images: [Augmented]
 
 Old Aged Images: [Old Aged](https://www.kaggle.com/ganeshshukla/oldimages)
 
-
-
-//Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1rtBmGPgYQGwpAPkcqqgb_RE6fZj89ceb?usp=sharing)
-
-//Demo: [Video](https://www.linkedin.com/posts/parthmehta15_deeplearning-neuralnetworks-ai-activity-6725707478996160512-ixJp)
 
 ### Paper
 [Holistic Siamese Model Optimized for Aged Face-Sketch Similarity Detection](https://ieeexplore.ieee.org/document/9231260) <br>
