@@ -8,7 +8,7 @@
 
 CUHK Dataset: [Dataset](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
 
-Augmeted Images: [Augmented]
+Augmented Images: [Augmented](https://github.com/ParthMehta15/Face-Sketch-Detection-Using-Siamese-Network/blob/main/Data/Augmeted_Images.zip)
 
 Old Aged Images: [Old Aged](https://www.kaggle.com/ganeshshukla/oldimages)
 
