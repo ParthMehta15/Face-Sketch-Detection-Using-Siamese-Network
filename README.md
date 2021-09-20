@@ -20,6 +20,7 @@ Demo: [Video](https://www.linkedin.com/posts/parthmehta15_deeplearning-neuralnet
 ### Paper
 [Holistic Siamese Model Optimized for Aged Face-Sketch Similarity Detection](https://ieeexplore.ieee.org/document/9231260) <br>
 Proceedings of the [International Conference on Computing, Power and Communication Technologies (GUCON)](https://ieeexplore.ieee.org/xpl/conhome/9230460/proceeding) <br>
-ISBN: 978-1-7281-5070-3/20/©2020 IEEE <br>
+<br>
+ISBN: 978-1-7281-5070-3 /©2020 IEEE <br>
 
 
