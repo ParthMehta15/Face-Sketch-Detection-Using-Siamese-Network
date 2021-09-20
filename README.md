@@ -11,7 +11,7 @@ YOLOv3 pretrained weights - Download [Weights](https://pjreddie.com/media/files/
 Pre-trainned Weights for convolution layers - Download [Conv_weights](https://pjreddie.com/media/files/darknet53.conv.74)
 
 
-[Dataset](https://www.kaggle.com/parthmehta15/gunfire-yolo)
+[Dataset](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
 
 Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1rtBmGPgYQGwpAPkcqqgb_RE6fZj89ceb?usp=sharing)
 
