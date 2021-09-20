@@ -1,6 +1,6 @@
 # Face-Sketch-Detection-Using-Siamese-Network
 
-![result](https://github.com/ParthMehta15/Fire-and-Gun-Anomaly-Detection/blob/main/images/fire_gun.jpg "Model Output")
+![result](https://github.com/ParthMehta15/Face-Sketch-Detection-Using-Siamese-Network/blob/main/images/image.png "Model")
 
 
 
